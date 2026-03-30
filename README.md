@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Phitsa
-- 👀 I’m interested in get a job
+- 👀 I’m interested in getting a job
 - 🌱 I’m currently learning PHP
 - ⚡ Fun fact: i have a dog called layla
